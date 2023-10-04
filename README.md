@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=kixuans&show_icons=true&count_private=true)
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=kixuan&show_icons=true&count_private=true)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kixuans&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kixuan&layout=compact)
 
 
 <!--
