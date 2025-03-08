@@ -1,10 +1,8 @@
 ## 👋 Welcome to My GitHub!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=%E4%B8%8D%E5%81%9C%E5%8E%98%E6%B8%85%E3%80%81%E4%B8%8D%E6%96%AD%E5%87%BA%E5%8F%91%E3%80%81%E4%B8%8D%E8%BF%9C%E4%B8%87%E9%87%8C)](https://git.io/typing-svg)
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=kixuan&show_icons=true&count_private=true&theme=radical)
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=kixuan&show_icons=true&count_private=true&theme=ambient_gradient)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kixuan&layout=compact&hide=JavaScript,HTML,CSS,Vim%20Script&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kixuan&layout=compact&hide=JavaScript,HTML,CSS)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kixuan&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![](https://hits.seeyoufarm.com/api/count/incr?url=https://github.com/kixuan&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
 
@@ -14,11 +12,10 @@
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 
 
-
 💼 **Previous work & projects**
 实习 & 个人项目：  
 - AIGC 相关开发（百度 AIGC 生产研发实习生）  
-- Java 后端开发（电信研究院 Java 开发实习生）  
+- Java 后端开发（电信研究院6G Java 开发实习生）  
 - 数据平台 & 业务系统（钛动中后台实习生）  
 
 🌱 **I’m currently learning**  
@@ -42,11 +39,12 @@
 - 个人效率提升 & 知识管理  
 - AIGC / 数据分析 / 编程学习  
 
-📫 **How to reach me**  
+📫 **How to reach me** 
+- **💬 WeChat**: Mistletoers  
 - **📧 Email**: 1752845542@qq.com  
 - **📌 GitHub**: [kixuan](https://github.com/kixuan)  
-- **📖 Blog**: [kixuan New Blog](https://kixuans-organization.gitbook.io/blog)  
-- **💬 WeChat**: Mistletoers  
+- **📖 Blog**: [kixuan New Blog](https://kixuans-organization.gitbook.io/blog)  && [kixuan Old Blog](https://kixuan.github.io/)
+
 
 ⚡ **Fun fact**  
 - **追番**：杂食，最爱少女乐队（MyGO!!!!!、GBC、孤独摇滚），最近在重温百变小樱😍
@@ -58,6 +56,11 @@
 - **梦想**：是爱世界；去日本看mygo/gbc/滚的live；用代码开发很多实用工具、解决任何理性问题；随时都能和朋友散步几个小时聊人生
 
 ---
+![trophy](https://github-profile-trophy.vercel.app/?username=kixuan)  ![GitHub Streak](https://streak-stats.demolab.com/?user=kixuan)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kixuan&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![visitors](https://komarev.com/ghpvc/?username=kixuan&base=987&abbreviated=true&style=for-the-badge&color=blue)
 
 to be completed...
 
