@@ -58,7 +58,7 @@
 ---
 ![trophy](https://github-profile-trophy.vercel.app/?username=kixuan)  ![GitHub Streak](https://streak-stats.demolab.com/?user=kixuan)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kixuan&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kixuan&theme=react-dark)
 
 ![visitors](https://komarev.com/ghpvc/?username=kixuan&base=987&abbreviated=true&style=for-the-badge&color=blue)
 
