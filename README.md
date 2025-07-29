@@ -1,4 +1,4 @@
-r## 👋 Welcome to My GitHub!
+## 👋 Welcome to My GitHub!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=%E4%B8%8D%E5%81%9C%E5%8E%98%E6%B8%85%E3%80%81%E4%B8%8D%E6%96%AD%E5%87%BA%E5%8F%91%E3%80%81%E4%B8%8D%E8%BF%9C%E4%B8%87%E9%87%8C)](https://git.io/typing-svg)
 
